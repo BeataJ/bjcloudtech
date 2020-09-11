@@ -75,3 +75,7 @@ p {
     background-position: center center;
   }
 }
+
+.hero {
+  --clr-accent: #faa700;
+}
